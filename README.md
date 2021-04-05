@@ -13,3 +13,4 @@ The following table contains the solutions of competitive problems listed in the
 | [Increasing Array](https://cses.fi/problemset/task/1094) | Introductory Problems | [Solution](solutions/Increasing_Array) |
 | [Apartments](https://cses.fi/problemset/task/1084) | Sorting and Searching | [Solution](solutions/Apartments) |
 | [Distinct Numbers](https://cses.fi/problemset/task/1621) | Sorting and Searching | [Solution](solutions/Distinct_Numbers) |
+| [Maximum Subarray Sum](https://cses.fi/problemset/task/1643) | Sorting and Searching | [Solution](solutions/Maximum_Subarray_Sum) |
